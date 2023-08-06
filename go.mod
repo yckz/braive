@@ -3,8 +3,8 @@ module github.com/yckz/braive
 go 1.20
 
 require (
-	github.com/kevinburke/go-bindata v1.1.0
-	github.com/yckz/devkit v0.0.0-20230806103757-610ac1f89d36
+	github.com/kevinburke/go-bindata v3.24.0+incompatible
+	github.com/yckz/devkit v1.56.20
 )
 
 require (
