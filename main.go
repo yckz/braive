@@ -8,11 +8,11 @@ import (
 	"os"
 	"path"
 
-	"github.com/yckz/braive/assets"
+	_ "github.com/yckz/braive/assets"
 	"github.com/yckz/devkit"
 	"github.com/yckz/devkit/pkg/log"
-	"github.com/yckz/devkit/pkg/registry"
-	"github.com/yckz/devkit/pkg/shortcut"
+	_ "github.com/yckz/devkit/pkg/registry"
+	_ "github.com/yckz/devkit/pkg/shortcut"
 	"github.com/yckz/devkit/pkg/utl"
 )
 
