@@ -4,7 +4,7 @@ go 1.20
 
 require (
 	github.com/kevinburke/go-bindata v3.24.0+incompatible
-	github.com/yckz/devkit v1.56.21
+	github.com/yckz/devkit v1.56.22
 )
 
 require (
